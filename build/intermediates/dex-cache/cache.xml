@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Nakul\Documents\GitHub\BoggleCS-453-554\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Nakul\Documents\GitHub\BoggleCS-453-554\app\build\intermediates\pre-dexed\debug\classes-97635cc1d7304ca3da58ab5746cf0c8a5de90ed0.jar" />
+    </item>
+    <item
         jar="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -9,11 +16,18 @@
         <dex dex="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\pre-dexed\debug\classes-410e5734869b33e2b56db149851b9baf990ec06e.jar" />
     </item>
     <item
-        jar="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jar="C:\Users\Nakul\Documents\GitHub\BoggleCS-453-554\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\pre-dexed\debug\classes-f81a8906734d792797ede59df7ce94615f9891ba.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Nakul\Documents\GitHub\BoggleCS-453-554\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-642f8699e9c49d592e858ae973b37d97cf582de8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nakul\Documents\GitHub\BoggleCS-453-554\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Nakul\Documents\GitHub\BoggleCS-453-554\app\build\intermediates\pre-dexed\debug\classes-a973c38927331ddb70b3f1ac58c2fc24a4b62483.jar" />
     </item>
     <item
         jar="C:\Users\Nakul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
@@ -21,6 +35,13 @@
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
         <dex dex="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-59b6eb507caf4e296666ab4feca3df0f7a3eef11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\pre-dexed\debug\classes-f81a8906734d792797ede59df7ce94615f9891ba.jar" />
     </item>
     <item
         jar="C:\Users\Nakul\Desktop\Boggle\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
