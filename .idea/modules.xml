@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Boggle.iml" filepath="$PROJECT_DIR$/Boggle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoggleCS-453-554.iml" filepath="$PROJECT_DIR$/BoggleCS-453-554.iml" />
     </modules>
   </component>
 </project>
